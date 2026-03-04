@@ -12,7 +12,7 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 - Python 3
 
 ## 🎯 Objetivo
-Projeto criado com foco em aprendizado e desenvolvimento da base em programação para estágio na área de Tecnologia.
+Projeto desenvolvido para praticar estruturas condicionais, entrada de dados e lógica de decisão em Python.
 
 ## ▶️ Como executar
 1. Baixe o arquivo `calculadora_media.py`
